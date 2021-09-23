@@ -1,0 +1,10 @@
+using System;
+public class Sayhello{
+public static void args[]{
+
+Console.WriteLine("Hello World!!");
+
+Console.ReadLine();
+}
+
+}
